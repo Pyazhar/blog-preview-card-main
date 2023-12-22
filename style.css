@@ -145,6 +145,16 @@
     font-weight: var(--fw-regular);
   }
 
+  footer div{
+    display: block;
+    text-align: center;
+    margin-top: 3em;
+    color: var(--clr-neutral-900);
+    font-size: 0.5rem;
+
+    
+  }
+
 
   
   
